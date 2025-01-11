@@ -1,2 +1,2 @@
 Second.txt
-git pull
+learned to pull
